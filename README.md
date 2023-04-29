@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
 
 # Github Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
-    [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
 
 # Projects
  - [FileShare](https://github.com/Anirudh3167/FileShare)
