@@ -36,6 +36,12 @@ You can click the Preview link to take a look at your changes.
 ## Others:-
    [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 
+# Github Stats:-
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
+    [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
+
+
 
 ### Frameworks:-
 1. Django (Advanced)
@@ -73,9 +79,3 @@ You can click the Preview link to take a look at your changes.
 2. Climate FinTech Website (currently working)
 3. Store it (waiting list)
 4. Chat Application (waiting list)
-
-### Github Stats:-
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
-
