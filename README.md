@@ -34,7 +34,10 @@ You can click the Preview link to take a look at your changes.
 ### Machine Learning:-
    [![My Skills](https://skills.thijs.gg/icons?i=pytorch,tensorflow,keras)](https://skills.thijs.gg)
 ## Others:-
-   [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
+### Web Hosting:-
+ [![My Skills](https://skills.thijs.gg/icons?i=heroku,netlify,infinityFree,pythonanywhere,githubpages)](https://skills.thijs.gg)
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 
 # Github Stats:-
 
