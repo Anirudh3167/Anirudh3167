@@ -1,6 +1,3 @@
-<h1 align="center"> Hi there, 👋 </h1>
-
-
 <div id="shields-img" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-13followers-blue?style=social&logo=linkedin" alt="LinkedIn">
     <img src="https://img.shields.io/badge/Facebook-150+friends-blue?style=social&logo=facebook" alt="Facebook">
@@ -8,87 +5,37 @@
     <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
  </div>
 
-### Little Intro:-
-- 👋 Hi, I’m @Anirudh3167
-- 👀 I’m interested in Web dev , AI and ML
-- 🌱 I’m currently learning DJANGORESTFRAMEWORK 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> Hi 👋, I am Anirudh </h1>
+    <ul>
+    <li> 🔭 Currently working on <b>Django</b> and <b>NextJs</b> </li>
+    <li> 🌱 Learning <b> Machine Learning | Flutter | Web Dev </b> </li>
+    <li> 👨‍💻 Check out my projects at :- https://github.com/Anirudh3167 </li>
+    <li> 👀 Interested in <b> Maths and Coding </b> </li>
+    <li> 😎 Hobbies are <b> Music🎶 || Chess♟ || Coding👨‍💻 </b> </li>
+    <li> 📬 How to reach me -> anirudhmukkamala@gmail.com </li>
+    <li> ✨ Eat, Sleep, Code and Repeat! </li>
+    </ul>
+
 
 <!---
 Anirudh3167/Anirudh3167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Skills:-
+## Languages:-
+### Scripting:-
+   [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python,kotlin)](https://skills.thijs.gg)
+### Web Dev:-
+   [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,django,php,figma,md,flutter)](https://skills.thijs.gg)
+### DBMS:-
+   [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
+### Editors and codebases:-
+   [![My Skills](https://skills.thijs.gg/icons?i=vscode,github,replit,)](https://skills.thijs.gg)
+### Machine Learning:-
+   [![My Skills](https://skills.thijs.gg/icons?i=pytorch,tensorflow,keras)](https://skills.thijs.gg)
+## Others:-
+   [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 
-### Languages:-
-<div id="lang-icons" align="left" style="display:inline;">
-    <span id="lang1" height="80" width="70">
-        <img height="64" width="64" src="https://cdn.simpleicons.org/c" /> <br>
-        (Mediocre)
-    </div>  &nbsp;&nbsp;
-    <div id="lang2">
-        <img height="64" width="64" src="https://cdn.simpleicons.org/c++" /> <br>
-        (Mediocre)
-    </div>  &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/python" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/html" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/css" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/javascript" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/batchfiles" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/kotlin" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/mysql" /> &nbsp;&nbsp;
-    <img height="64" width="64" src="https://cdn.simpleicons.org/php" /> &nbsp;&nbsp;
-</div>
-
-<table>
-  <tr>
-    <th> S.No. </th> <th> Language </th> <th> Expertise </th>
-  </tr>
-  <tr>
-    <td> 1. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/C" /> </td> <td>(Mediocre)</td>
-  </tr>
-  <tr>
-    <td> 2. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/c++" /></td> <td>(Mediocre)</td>
-  </tr>
-  <tr>
-    <td> 3. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/python" /> </td> <td>(Expert)</td>
-  </tr>
-  <tr>
-    <td> 4. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/html" /> </td> <td>(Mediocre)</td>
-  </tr>
-  <tr>
-    <td> 5. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/css" /> </td> <td>(Mediocre)</td>
-  </tr>
-  <tr>
-    <td> 6. </td> <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> </td> <td>(Learning)</td>
-  </tr>
-  <tr>
-    <td> 7. </td> <td>Batch Files </td> <td>(Beginner)</td>
-  </td>
-  <tr>
-    <td> 8. </td> <td>Kotlin </td> <td>(Learning)</td>
-  </tr>
-  <tr>
-    <td> 9. </td> <td>MySql </td> <td>(Mediocre)</td>
-  </tr>
-  <tr>
-    <td> 10. </td> <td>PHP </td> <td>(Beginner)</td>
-  </tr>
-</table>
-<!---
-2. C++ (Mediocre)
-3. Python (Expert)
-4. Html (Mediocre)
-5. Css (Mediocre)
-6. JavaScript (learning)
-7. Batch files (Beginner)
-8. Kotlin (learning)
-9. MySQL (Mediocre)
-10. PHP (Beginner)
----!>
 
 ### Frameworks:-
 1. Django (Advanced)
