@@ -9,7 +9,7 @@
     <ul>
     <li> 🔭 Currently working on <b>Django</b> and <b>NextJs</b> </li>
     <li> 🌱 Learning <b> Machine Learning | Flutter | Web Dev </b> </li>
-    <li> 👨‍💻 Check out my projects at :- https://github.com/Anirudh3167 </li>
+    <li> 👨‍💻 Check out my projects at :- [Projects](#projects) </li>
     <li> 👀 Interested in <b> Maths and Coding </b> </li>
     <li> 😎 Hobbies are <b> Music🎶 || Chess♟ || Coding👨‍💻 </b> </li>
     <li> 📬 How to reach me -> anirudhmukkamala@gmail.com </li>
@@ -17,11 +17,15 @@
     </ul>
 
 
+# Contact with me
+   [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/anirudh-mukkamala-46a9b2242)
+   [<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />](https://www.discord.com)
+   
 <!---
 Anirudh3167/Anirudh3167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Skills:-
+# Skills
 ## Languages:-
 ### Scripting:-
    [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python,kotlin)](https://skills.thijs.gg)
@@ -35,16 +39,22 @@ You can click the Preview link to take a look at your changes.
    [![My Skills](https://skills.thijs.gg/icons?i=pytorch,tensorflow,keras)](https://skills.thijs.gg)
 ## Others:-
 ### Web Hosting:-
- [![My Skills](https://skills.thijs.gg/icons?i=heroku,netlify,infinityFree,pythonanywhere,githubpages)](https://skills.thijs.gg)
- 
+ [![My Skills](https://skills.thijs.gg/icons?i=heroku,netlify,github)](https://skills.thijs.gg)
+
+### Version Control:-
  [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 
-# Github Stats:-
+# Github Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
     [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh3167)](https://github.com/anirudh3167/github-readme-stats)
 
-
+# Projects
+ - [FileShare](https://github.com/Anirudh3167/FileShare)
+ - [Eco In](https://github.com/Anirudh3167/The-Breaking-Code)
+ - [StarticField](https://www.starticfield.com)
+ 
+ For more projects check out [projects](https://github.com/Anirudh3167/projects.md)
 
 ### Frameworks:-
 1. Django (Advanced)
