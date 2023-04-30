@@ -1,10 +1,12 @@
 <div id="shields-img" align="center">
-    ![Profile views](https://gpvc.arturio.dev/Anirudh3167)
+
     <img src="https://img.shields.io/badge/LinkedIn-13followers-blue?style=social&logo=linkedin" alt="LinkedIn">
     <img src="https://img.shields.io/badge/Facebook-150+friends-blue?style=social&logo=facebook" alt="Facebook">
     <img src="https://img.shields.io/badge/-Resume-222?style=flat&logo=resume" alt="Resume">
     <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
  </div>
+
+![Profile views](https://gpvc.arturio.dev/Anirudh3167)
 
 <h1 align="center"> Hi 👋, I am Anirudh </h1>
     <ul>
