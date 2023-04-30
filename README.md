@@ -56,39 +56,6 @@ You can click the Preview link to take a look at your changes.
  
  For more projects check out [projects](https://github.com/Anirudh3167/projects.md)
 
-### Frameworks:-
-1. Django (Advanced)
-2. Tensorflow (Basic)
-3. ReactJs (Mediocre)
-4. NextJs (Mediocre)
-5. VS Code (Advanced)(editor)
-6. Django-Rest-Framework (Advanced)
-7. Laravel (Basic)
-8. Android studio (Basic)
-9. Replit (Mediocre)(editor)
-10. Bootstrap (Basic)
-11. Tkinter (Mediocre)
-12. Turtle (Mediocre)
 
-### Skills:-
-1. Web development (Full stack)
-2. Deep Learning (Basics of image classification)
-3. Database Management (MySQL basic)
-4. Cloud computing (Basics)
-5. API Creation and integration 
 
-### Learning:-
-1. Django Celery
-2. Machine Learning
-3. Android development
 
-### Web Hosting platforms:-
-1. GitHub (for static pages)
-2. Pythonanywhere (for dynamic pages)
-3. Heroku (not using it currently)
-
-### Projects:-
-1. STARTICFIELD Website
-2. Climate FinTech Website (currently working)
-3. Store it (waiting list)
-4. Chat Application (waiting list)
