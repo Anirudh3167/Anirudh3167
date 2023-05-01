@@ -1,9 +1,9 @@
 <div id="shields-img" align="center">
-
-    <img src="https://img.shields.io/badge/LinkedIn-13followers-blue?style=social&logo=linkedin" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/Facebook-150+friends-blue?style=social&logo=facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/-LinkedIn-LinkedIn?style=social&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Facebook-Facebook?style=social&logo=facebook" alt="Facebook">
     <img src="https://img.shields.io/badge/-Resume-222?style=flat&logo=resume" alt="Resume">
     <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
+    <img src="https://img.shields.io/badge/-leetcode-leetcode?style=flat&logo=leetcode" alt="leetcode">
  </div>
 
 ![Profile views](https://gpvc.arturio.dev/Anirudh3167)
