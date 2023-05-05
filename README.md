@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 ### DBMS:-
    [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
 ### Editors and codebases:-
-   [![My Skills](https://skills.thijs.gg/icons?i=vscode,github,replit,)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=vscode,github,replit)](https://skills.thijs.gg)
 ### Machine Learning:-
    [![My Skills](https://skills.thijs.gg/icons?i=pytorch,tensorflow,keras)](https://skills.thijs.gg)
 ## Others:-
