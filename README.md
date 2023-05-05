@@ -33,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 ### Scripting:-
    [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python,kotlin)](https://skills.thijs.gg)
 ### Web Dev:-
-   [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,django,php,figma,md,flutter)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=django,php,figma,md,flutter)](https://skills.thijs.gg)
 ### DBMS:-
    [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite)](https://skills.thijs.gg)
 ### Editors and codebases:-
